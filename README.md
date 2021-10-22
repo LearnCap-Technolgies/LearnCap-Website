@@ -24,7 +24,9 @@ information that makes it easier for the visitors to learn about them.
 standards and interactive UI is appreciated.
 4. Options for routing, manageable content pages and more can be
 implemented.
-Benefits of the Program : 1. Participate in HacktoberFest with this project
+
+## Benefits of the Program : 
+1. Participate in HacktoberFest with this project
 2. Earn a certificate and letter of recommendation based on your performance in this
 program.
 3. If performance is at par and the candidate is found to be an exemplary performer,
